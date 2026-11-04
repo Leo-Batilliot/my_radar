@@ -1,4 +1,7 @@
 # MY_RADAR  
+
+![Demo](docs/demo.gif)
+
 ## DESCRIPTION  
   
 my_radar is a 2d air traffic simulator, it takes a file as an argument and renders said file in a 2d csfml interface
